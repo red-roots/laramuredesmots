@@ -1,0 +1,15 @@
+{% extends "root/templates/index.html" %}
+{% block main %}
+<section class="text-center">
+    <h1 class="heading-text" style="font-size: 50px">
+        Sylvaine AUSSIETTE
+    </h1>
+    <h3 class="title-text">
+        Biographe hospitalier
+    </h3>
+</section>
+{% endblock main %}
+
+{% block favicon %}
+    <link rel="icon" type="image/png" href="{{ get_url(path='favicon.ico') }}">
+{% endblock favicon %}

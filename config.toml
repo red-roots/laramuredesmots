@@ -1,0 +1,20 @@
+# The URL the site will be built for
+base_url = "https://laramuredesmots.fr"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "roots"
+
+[markdown]
+highlight_code = false
+
+[extra]
+juice_logo_name = "La ramure des mots"
+juice_logo_path = "tree-alt.svg"
+juice_extra_menu = []
+juice_exclude_menu = []
+repository_url = "https://github.com/green-root/la-ramure-des-mots"

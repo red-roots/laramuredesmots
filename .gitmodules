@@ -1,0 +1,3 @@
+[submodule "themes/roots"]
+	path = themes/roots
+	url = git@github.com:red-roots/roots.git
