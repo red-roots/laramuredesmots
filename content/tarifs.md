@@ -4,7 +4,7 @@ description = "Tarifs"
 weight = 2
 +++
 
-Une séance est facturée **200€**. Le paiement s’effectue après chaque séance. Le coût est ainsi réparti au fur et à mesure de l’avancement du travail.
+Une heure d’entretien ou d’écriture est facturée 40 euros. Une heure d’entretien nécessite quatre heures de travail d’écriture.
 
 Ce tarif comprend :
 - le trajet jusqu’à chez vous et le retour à mon domicile
