@@ -9,15 +9,15 @@ sort_by = "weight"
 
 * ramasser, rassembler, vivifier les souvenirs et honorer la Vie
 
-<img class="in_text" style="width: 10%" src="agile_tasks_sprint_postits_notes.svg">
+<img class="in_text" style="width: 10%" src="sun.svg">
 
-* offrir à un proche la possibilité de raconter sa vie afin que l’histoire familiale demeure vivante dans la mémoire des jeunes générations. (J’ai enlevé la suite de la phrase)
+* offrir à un proche la possibilité de raconter sa vie afin que l’histoire familiale demeure vivante dans la mémoire des jeunes générations.
 
 **Je mets mon écriture au service de votre récit.**
 
 # Qui suis-je ?
 
-Professeure de français depuis plus de 25 ans (Capes de lettres modernes), je suis également biographe (formation auprès [d’Isabelle Sarcey - Iscriptura](https://www.iscriptura.fr/)).
+Professeure de français depuis plus de 25 ans (Capes de lettres modernes), je suis également biographe (formation auprès d'[Isabelle Sarcey - Iscriptura](https://www.iscriptura.fr/)).
 J’aime marier ces deux activités qui me permettent d’établir un contact privilégié avec les mots et de privilégier la transmission.
 
 Tous les êtres m’intéressent : ceux que la littérature me donne à découvrir et ceux que la vie m’offre de rencontrer.
@@ -35,7 +35,7 @@ Vous pouvez raconter :
 
 # Déroulement de la prestation
 
-## 1) Nous faisons connaissance
+## Premier contact
 
 - Nous prenons contact par téléphone ou par mail pour convenir de la date de notre première rencontre. Cet entretien est gratuit.
 
@@ -88,7 +88,7 @@ Avant chaque nouvel entretien, je vous transmets par mail une première version 
 
 Si des ajouts ou des modifications doivent avoir lieu, j’en tiens compte avant la prochaine rencontre.
 
-## 5) Nous finalisons votre projet
+## 5) Finalisation du projet
 
 * À la fin de nos séances, nous réfléchissons au titre de votre biographie.
 
