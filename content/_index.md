@@ -35,7 +35,7 @@ Vous pouvez raconter :
 
 # Déroulement de la prestation
 
-## Premier contact
+## 1) Premier contact
 
 - Nous prenons contact par téléphone ou par mail pour convenir de la date de notre première rencontre. Cet entretien est gratuit.
 
@@ -59,7 +59,7 @@ Vous pouvez raconter :
 >
 > – pour raconter un événement ou une période délimitée : il faut environ 2 à 5 séances
 
-## 2) Écoute, prise de note et échange en séance
+## 2) Écoute et échange en séance
 
 - Je me rends à votre domicile pour effectuer les séances. J’ai à cœur de vous écouter avec intérêt et sans jugement.
 

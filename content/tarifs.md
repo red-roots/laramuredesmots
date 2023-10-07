@@ -1,14 +1,13 @@
 +++
 title = "Tarifs"
-description = "Tarifs"
-weight = 2
+description = "Tarification"
+weight = 1
 +++
 
+# Je suis un titre de niveau 1
 Une heure d’entretien ou d’écriture est facturée *40 €*. Une heure d’entretien nécessite 4h de travail d’écriture.
 
 Vous pouvez interrompre notre collaboration à tout moment sous réserve du règlement du travail déjà réalisé.
-
-<p>
 
 > **À titre indicatif :**
 >    * **pour raconter une vie entière :** environ 8 à 12 séances, soit un budget de **1600 à 2400€** (hors frais d’impression).

@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "/la-ramure-des-mots"
-
+title = "La ramure des mots"
 compile_sass = true
 minify_html = false
 build_search_index = false
@@ -11,8 +11,6 @@ theme = "roots"
 highlight_code = false
 
 [extra]
-juice_logo_name = "La ramure des mots"
-juice_logo_path = "tree-alt.svg"
-juice_extra_menu = []
-juice_exclude_menu = []
-repository_url = "https://github.com/green-root/la-ramure-des-mots"
+theme_logo_path = "tree-alt.svg"
+theme_extra_menu = []
+theme_exclude_menu = ["Mentions légales"]
