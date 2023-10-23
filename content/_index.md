@@ -9,7 +9,7 @@ sort_by = "weight"
 
 * ramasser, rassembler, vivifier les souvenirs et honorer la Vie
 
-<img class="in_text" style="width: 10%" src="sun.svg">
+<img class="in_text" style="width: 10%" src="img/sun.svg">
 
 * offrir à un proche la possibilité de raconter sa vie afin que l’histoire familiale demeure vivante dans la mémoire des jeunes générations.
 
@@ -41,7 +41,7 @@ Vous pouvez raconter :
 
 - Vous me présentez votre projet et ce qui vous anime.
 
-<img class="in_text" src="collaborative_work_1.svg">
+<img class="in_text" src="img/collaborative_work_1.svg">
 
 - Vous me précisez la manière dont vous voulez mettre en place votre récit
     * il peut suivre *un ordre chronologique* et s’organiser au moyen de chapitres, éventuellement intitulés
@@ -65,7 +65,7 @@ Vous pouvez raconter :
 
 - Je prends des notes et enregistre également vos mots afin de pouvoir réécouter certains passages et reprendre certaines formules langagières qui vous caractérisent et vous ressemblent.
 
-<img class="in_text" style="width: 10%" src="school_note_write_pencil.svg">
+<img class="in_text" style="width: 10%" src="img/school_note_write_pencil.svg">
 
 - Je me permets d’intervenir délicatement si j’ai besoin de quelques éclaircissements ou précisions, avec toujours le souci d’être fidèle à votre histoire et à vos ressentis.
 
@@ -76,7 +76,7 @@ Vous pouvez raconter :
 Je mets mes compétences d’écriture au service de votre texte.
 Je retranscris votre récit dans son intégralité afin de m’imprégner de votre histoire et de vos mots.
 
-<img class="in_text" src="flow_3.svg">
+<img class="in_text" src="img/flow_3.svg">
 
 Je passe ensuite à la phase de rédaction durant laquelle je mets en forme votre récit. J’assure dynamisme, fluidité et clarté à ce dernier.
 
@@ -84,7 +84,7 @@ Je passe ensuite à la phase de rédaction durant laquelle je mets en forme votr
 
 Avant chaque nouvel entretien, je vous transmets par mail une première version afin que vous puissiez la relire et si besoin l’annoter.
 
-<img class="in_text" src="school_book_write_pencil.svg">
+<img class="in_text" src="img/school_book_write_pencil.svg">
 
 Si des ajouts ou des modifications doivent avoir lieu, j’en tiens compte avant la prochaine rencontre.
 

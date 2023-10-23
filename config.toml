@@ -4,13 +4,16 @@ title = "La ramure des mots"
 compile_sass = true
 minify_html = false
 build_search_index = false
-
 theme = "roots"
 
 [markdown]
 highlight_code = false
 
 [extra]
-theme_logo_path = "tree-alt.svg"
-theme_extra_menu = []
+theme_logo_path = "img/favicon.svg"
+theme_extra_menu = [
+    { title = "Que raconter ?", link = "#que-raconter" },
+    { title = "Qui suis-je ?", link = "#qui-suis-je" }
+]
 theme_exclude_menu = ["Mentions légales"]
+theme_frontpage_img_path = "img/tree.svg"

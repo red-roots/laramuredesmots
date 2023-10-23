@@ -4,7 +4,6 @@ description = "Tarification"
 weight = 1
 +++
 
-# Je suis un titre de niveau 1
 Une heure d’entretien ou d’écriture est facturée *40 €*. Une heure d’entretien nécessite 4h de travail d’écriture.
 
 Vous pouvez interrompre notre collaboration à tout moment sous réserve du règlement du travail déjà réalisé.
