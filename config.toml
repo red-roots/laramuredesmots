@@ -10,7 +10,7 @@ theme = "roots"
 highlight_code = false
 
 [extra]
-theme_logo_path = "img/favicon.svg"
+theme_logo_path = "favicon.svg"
 theme_extra_menu = [
     { title = "Que raconter ?", link = "#que-raconter" },
     { title = "Qui suis-je ?", link = "#qui-suis-je" }
