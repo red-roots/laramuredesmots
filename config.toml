@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "/la-ramure-des-mots"
-title = "La ramure des mots"
+title = "La Ramure des mots"
 compile_sass = true
 minify_html = false
 build_search_index = false
@@ -10,10 +10,10 @@ theme = "roots"
 highlight_code = false
 
 [extra]
-theme_logo_path = "favicon.svg"
+theme_logo_path = "img/logo.svg"
 theme_extra_menu = [
     { title = "Que raconter ?", link = "#que-raconter" },
-    { title = "Qui suis-je ?", link = "#qui-suis-je" }
+    { title = "Qui suis-je ?", link = "#qui-suis-je" },
 ]
-theme_exclude_menu = ["Mentions légales"]
+theme_exclude_menu = ["Mentions légales", "Conditions générales de vente"]
 theme_frontpage_img_path = "img/tree.svg"

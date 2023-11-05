@@ -19,6 +19,6 @@ Sauf mention contraire, le contenu de ce site est placé sous licence [CC BY-NC-
 
 # Traitement des données
 
-Ce site n'utilise aucune forme d'analytique. La seule donnée à caractère personelle nécessaire et communiquée à l'herbergeur est votre adresse IP. Plus d'information sur le site de [www.statichost.e](https://www.statichost.eu/privacy/).
+Ce site n'utilise aucune forme d'analytique. La seule donnée à caractère personelle nécessaire et communiquée à l'herbergeur est votre adresse IP. Plus d'information sur le site de [www.statichost.eu](https://www.statichost.eu/privacy/).
 
-Pour toute demande veuillez m'écrire à <a href="mailto:contact&commat;laramuredesmots&period;fr">contact&commat;laramuredesmots&period;fr</a>
+Pour toute demande veuillez m'écrire à <a href="mailto:%63%6f%6e%74%61%63%74%40%6c%61%72%61%6d%75%72%65%64%65%73%6d%6f%74%73%2e%66%72">contact&commat;laramuredesmots&period;fr</a>

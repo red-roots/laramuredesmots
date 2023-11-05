@@ -1,20 +1,23 @@
 +++
 title = "Tarifs"
-description = "Tarification"
+description = "Tarifs"
 weight = 1
 +++
 
-Une heure d’entretien ou d’écriture est facturée *40 €*. Une heure d’entretien nécessite 4h de travail d’écriture.
+Une heure d’entretien avec vous nécessite **4h** de travail d'écriture. Chaque heure est facturée **40€**.
 
 Vous pouvez interrompre notre collaboration à tout moment sous réserve du règlement du travail déjà réalisé.
 
-> **À titre indicatif :**
->    * **pour raconter une vie entière :** environ 8 à 12 séances, soit un budget de **1600 à 2400€** (hors frais d’impression).
->    * **pour raconter un événement ou une période délimitée** : il faut 2 à 5 séances, soit un budget **de 400 à 1000€** (hors frais d’impression).
+> **À titre indicatif (hors frais d’impression) :**
+>    * **pour raconter une vie entière :** environ 8 à 12 séances, soit un budget de **1600 à 2400€**.
+>
+>    * **pour raconter un événement ou une période délimitée** : il faut 2 à 5 séances, soit un budget **de 400 à 1000€**.
 
-Ce tarif comprend :
+<img class="in_text" src="/img/chart_tart.svg">
+
+Cette tarification comprend :
 - le trajet jusqu’à chez vous et le retour à mon domicile
-- **1h** d’entretien enregistré à votre domicile
+- les différents entretiens
 - la retranscription intégrale de votre récit
 - la mise en forme du texte, le travail du style, la clarté et la fluidité de l’écriture
 - la relecture orthographique et grammaticale
