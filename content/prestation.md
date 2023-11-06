@@ -34,7 +34,7 @@ weight = 1
 
 - Je prends des notes et enregistre également vos mots afin de pouvoir réécouter quelques passages et reprendre certaines formules langagières qui vous caractérisent et vous ressemblent.
 
-<img class="in_text" style="width: 10%" src="/img/school_note_write_pencil.svg">
+<img class="in_text" src="/img/school_note_write_pencil.svg">
 
 - Je me permets d’intervenir délicatement si j’ai besoin de quelques éclaircissements ou précisions, avec toujours le souci d’être fidèle à votre histoire et à vos ressentis.
 

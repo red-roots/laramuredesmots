@@ -4,7 +4,11 @@ sort_by = "weight"
 +++
 
 
-> *Les souvenirs sont nos forces. Quand la nuit essaie de revenir, il faut allumer les grandes dates, comme on allume des flambeaux.* — Victor Hugo
+<div class="content block_1">
+
+> *Les souvenirs sont nos forces. Quand la nuit essaie de revenir, il faut allumer les grandes dates, comme on allume des flambeaux.*
+>
+> <div class="quote_author">Victor Hugo</div>
 
 <div class="flex">
 
@@ -36,7 +40,7 @@ Toute existence mérite d’être racontée. Toute histoire est un legs de grand
 Je suis là pour vous aider à retranscrire vos souvenirs, à les mettre en forme afin de donner à entendre ce qui a été votre histoire, les cabosses comme les victoires.
 
 </div>
-
+</div>
 </div>
 
 <p class="bold-text text-center">
