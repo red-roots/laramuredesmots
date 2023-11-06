@@ -4,7 +4,7 @@ sort_by = "weight"
 +++
 
 
-<div class="content block_1">
+<div class="frontpage_blockquote">
 
 > *Les souvenirs sont nos forces. Quand la nuit essaie de revenir, il faut allumer les grandes dates, comme on allume des flambeaux.*
 >
@@ -20,7 +20,7 @@ sort_by = "weight"
 
 * Soit un épisode important de votre vie  : une grossesse, la naissance d’un enfant, une adoption, un mariage, une rencontre, un voyage, l’épreuve de la maladie, un départ à la retraite, la construction d’une maison...
 
-<img class="in_text_photo" src="/img/pexels-rodolfo-clix.jpg">
+<img class="in_text_photo" src="img/pexels-rodolfo-clix.jpg">
 
 </div>
 
@@ -31,7 +31,7 @@ sort_by = "weight"
 Professeure de français depuis plus de 25 ans (Capes de lettres modernes), je suis également biographe (formation auprès d'[Isabelle Sarcey - Iscriptura](https://www.iscriptura.fr/)).
 J’aime marier ces deux activités qui me permettent d’établir un contact privilégié avec les mots et de privilégier la transmission.
 
-<img class="in_text" src="/img/sun.svg">
+<img class="in_text" src="img/sun.svg">
 
 Tous les êtres m’intéressent : ceux que la littérature me donne à découvrir et ceux que la vie m’offre de rencontrer.
 J’ai observé très tôt que la vie ordinaire se révèle, mème dans son apparente simplicité, aussi intéressante et foisonnante que la fiction.
