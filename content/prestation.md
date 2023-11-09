@@ -10,7 +10,7 @@ weight = 1
 
 - Vous me présentez votre projet et ce qui vous anime.
 
-<img class="in_text" src="/img/collaborative_work_1.svg">
+<img class="in_text" src="/la-ramure-des-mots/img/collaborative_work_1.svg">
 
 - Vous me précisez la manière dont vous voulez mettre en place votre récit.
     * il peut suivre *un ordre chronologique* et s’organiser au moyen de chapitres, éventuellement intitulés.
@@ -34,7 +34,7 @@ weight = 1
 
 - Je prends des notes et enregistre également vos mots afin de pouvoir réécouter quelques passages et reprendre certaines formules langagières qui vous caractérisent et vous ressemblent.
 
-<img class="in_text" src="/img/school_note_write_pencil.svg">
+<img class="in_text" src="/la-ramure-des-mots/img/school_note_write_pencil.svg">
 
 - Je me permets d’intervenir délicatement si j’ai besoin de quelques éclaircissements ou précisions, avec toujours le souci d’être fidèle à votre histoire et à vos ressentis.
 
@@ -45,7 +45,7 @@ weight = 1
 Je mets mes compétences d’écriture au service de votre texte.
 Je retranscris votre récit dans son intégralité afin de m’imprégner de votre histoire et de vos mots.
 
-<img class="in_text" src="/img/flow_3.svg">
+<img class="in_text" src="/la-ramure-des-mots/img/flow_3.svg">
 
 Je passe ensuite à la phase de rédaction durant laquelle je mets en forme votre récit. J’assure dynamisme, fluidité et clarté à ce dernier.
 
@@ -55,7 +55,7 @@ Avant chaque nouvel entretien, je vous transmets par mail une première version 
 
 Si des ajouts ou des modifications doivent avoir lieu, j’en tiens compte avant la prochaine rencontre.
 
-<img class="in_text" src="/img/school_book_write_pencil.svg">
+<img class="in_text" src="/la-ramure-des-mots/img/school_book_write_pencil.svg">
 
 ## 5) Finalisation du projet
 

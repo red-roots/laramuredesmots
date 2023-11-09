@@ -13,7 +13,7 @@ Vous pouvez interrompre notre collaboration à tout moment sous réserve du règ
 >
 >    * **pour raconter un événement ou une période délimitée** : il faut 2 à 5 séances, soit un budget **de 400 à 1000€**.
 
-<img class="in_text" src="/img/chart_tart.svg">
+<img class="in_text" src="/la-ramure-des-mots/img/chart_tart.svg">
 
 Cette tarification comprend :
 - le trajet jusqu’à chez vous et le retour à mon domicile
