@@ -28,8 +28,8 @@ sort_by = "weight"
 
 # Qui suis-je ?
 
-Professeure de français depuis plus de 25 ans (Capes de lettres modernes), je suis également biographe (formation auprès d'[Isabelle Sarcey - Iscriptura](https://www.iscriptura.fr/)).
-J’aime marier ces deux activités qui me permettent d’établir un contact privilégié avec les mots et de privilégier la transmission.
+Professeure de français depuis plus de 25 ans (Capes de lettres modernes) dans le département de l'Isère, je suis également biographe (formation auprès d'[Isabelle Sarcey - Iscriptura](https://www.iscriptura.fr/)).
+J’aime marier ces deux activités qui me permettent d’établir un contact privilégié avec les mots et de favoriser la transmission.
 
 <img class="in_text" src="img/sun.svg">
 

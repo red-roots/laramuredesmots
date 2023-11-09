@@ -4,7 +4,7 @@ description = "Tarifs"
 weight = 1
 +++
 
-Une heure d’entretien avec vous nécessite **4h** de travail d'écriture. Chaque heure est facturée **40€**.
+Une heure d’entretien avec vous nécessite **4h** de travail d'écriture de mon côté. Chaque heure est facturée **40€**. Une heure d'entretien est donc facturée **4** x **40€**.
 
 Vous pouvez interrompre notre collaboration à tout moment sous réserve du règlement du travail déjà réalisé.
 

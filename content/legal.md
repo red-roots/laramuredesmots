@@ -6,8 +6,7 @@ weight = 1
 
 # Hébergeur
 
-L’hébergement de ce site est assuré par Variable Object Assignment, 11129 Stockholm, SWEDEN.
-Site : ovh.com. [statichost.eu](https://www.statichost.eu/privacy/)
+L’hébergement de ce site est assuré par Variable Object Assignment, 11129 Stockholm, SWEDEN : [statichost.eu](https://www.statichost.eu/privacy/)
 
 # Éditeur
 
