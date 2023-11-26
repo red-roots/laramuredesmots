@@ -1,17 +1,17 @@
 {% extends "roots/templates/index.html" %}
 
 {% block frontpage %}
-<div class="box_test">
-    <section class="frontpage-profile text-center">
-        <h1 class="frontpage-heading">Sylvaine Aussiette</h1>
-        <img class="frontpage-profile-img" src="img/profile.webp"></img>
+<div class="frontpage-frame">
+    <section class="frontpage-left-panel text-center">
+        <h1 class="heading">Sylvaine Aussiette</h1>
+        <img class="frontpage-left-panel-img" src="img/profile.webp"></img>
         <div class="div-centered">
-        <h3 class="frontpage-heading-text">Biographe</h3>
-        <img class="frontpage-icon" src="img/feather.svg">
+            <h3 class="sub-heading">Biographe</h3>
+            <img class="frontpage-left-panel-icon" src="img/feather.svg">
         </div>
     </section>
 
-    <div class=frontpage-text>
+    <div class=frontpage-right-panel>
         <div class=frontpage-text-box>
             <h3 class="text-center">Pourquoi faire appel à un biographe ?</h3>
             <ul>
@@ -30,9 +30,16 @@
 {% endblock frontpage %}
 
 {% block footer %}
-<footer>
-    <small class="subtext">
-        Sylvaine AUSSIETTE © 2023 — <a href="{{ get_url(path='@/legal.md') }}">Mentions légales</a> — <a href="{{ get_url(path='@/cgv.md') }}">CGV</a>
+<footer class="subtext">
+    <div class="no-wrap">
+        Sylvaine AUSSIETTE © 2023
+    </div>
+    <a href="{{ get_url(path='@/legal.md') }}">
+        Mentions légales
+    </a>
+    <a href="{{ get_url(path='@/cgv.md') }}">
+        CGV
+    </a>
 </footer>
 {% endblock footer %}
 

@@ -4,19 +4,19 @@ description = "Mentions légales"
 weight = 1
 +++
 
-# Hébergeur
+## Hébergeur
 
 L’hébergement de ce site est assuré par Variable Object Assignment, 11129 Stockholm, SWEDEN : [statichost.eu](https://www.statichost.eu/privacy/)
 
-# Éditeur
+## Éditeur
 
 Ce site est conçu et édité par Sylvaine AUSSIETTE.
 
-# Licence
+## Licence
 
 Sauf mention contraire, le contenu de ce site est placé sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Vous pouvez par conséquent le partager et l’adapter selon les termes de la licence.
 
-# Traitement des données
+## Traitement des données
 
 Ce site n'utilise aucune forme d'analytique. La seule donnée à caractère personelle nécessaire et communiquée à l'herbergeur est votre adresse IP. Plus d'information sur le site de [www.statichost.eu](https://www.statichost.eu/privacy/).
 

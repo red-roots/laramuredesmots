@@ -12,8 +12,8 @@ highlight_code = false
 [extra]
 theme_logo_path = "img/logo.svg"
 theme_extra_menu = [
-    { title = "Que raconter ?", link = "/la-ramure-des-mots/#que-raconter" },
-    { title = "Qui suis-je ?", link = "/la-ramure-des-mots/#qui-suis-je" },
+    { title = "Que raconter ?", link = "/#que-raconter" },
+    { title = "Qui suis-je ?", link = "/#qui-suis-je" },
 ]
 theme_exclude_menu = ["Mentions légales", "Conditions générales de vente"]
 theme_frontpage_img_path = "img/tree.svg"
