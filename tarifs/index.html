@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>La Ramure des mots</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/favicon.svg">
+    <style>
+    :root {
+        --primary-color: #B7E0A3;
+        --primary-text-color: black;
+        --primary-text-color-over: #000;
+        --primary-link-color: #F9BB2D;
+        --secondary-color: #fcfaf6;
+        --secondary-text-color: #303030;
+        --toc-highlight-text-color: #d46e13;
+        --toc-background-color: white;
+        --code-color: #4a4a4a;
+        --code-background-color: #E7F5E0;
+
+        --shadow-color: #ddd;
+
+        /* Font used for headers (h1 & h2) */
+        --header-font-family: "Dancing", sans-serif;
+        /* Font used for text */
+        --text-font-family: "Atkinson", sans-serif;
+    }
+
+    /*@media (prefers-color-scheme: dark) {
+        :root {
+            --primary-color: #cdd4db;
+            --primary-text-color: black;
+            --primary-text-color-over: #FFF;
+            --primary-link-color: #9b9b9b;
+            --secondary-color: #282828;
+            --secondary-text-color: #f2f2f2;
+            --toc-highlight-text-color: #f2f2f2;
+            --toc-background-color: #3a3a3a;
+            --code-color: white;
+            --code-background-color: #4a4a4a;
+
+            --shadow-color: #202020;
+            --header-font-family: "Atkinson", sans-serif;
+            --text-font-family: "Atkinson", sans-serif;
+        }*/
+    }
+</style>
+
+    <link rel="stylesheet" href="/la-ramure-des-mots/theme.css">
+    
+    
+</head>
+
+<body>
+    
+<header class="box-shadow">
+    
+
+<a href="/la-ramure-des-mots/">
+    <div class="logo">
+        <span>La Ramure</span>
+        <img src="/la-ramure-des-mots/img/logo.svg" alt="logo">
+        <span>des mots</span>
+    </div>
+</a>
+
+<nav>
+    
+        
+        <a class="nav-item subtitle-text" href="/#que-raconter">Que raconter ?</a>
+        
+        <a class="nav-item subtitle-text" href="/#qui-suis-je">Qui suis-je ?</a>
+        
+    
+    
+    
+    
+    
+    
+    
+        <a class="nav-item subtitle-text" href="/la-ramure-des-mots/prestation/">Prestation</a>
+    
+    
+    
+        <a class="nav-item subtitle-text" href="/la-ramure-des-mots/tarifs/">Tarifs</a>
+    
+    
+</nav>
+
+</header>
+
+
+    <main id="main">
+    
+
+
+        <div class="content text">
+            
+<h1 class="title-text">Tarifs</h1>
+<p>Une heure d’entretien avec vous nécessite <strong>4h</strong> de travail d'écriture de mon côté. Chaque heure est facturée <strong>40€</strong>. Une heure d'entretien est donc facturée <strong>4</strong> x <strong>40€</strong>.</p>
+<p>Vous pouvez interrompre notre collaboration à tout moment sous réserve du règlement du travail déjà réalisé.</p>
+<blockquote>
+<p><strong>À titre indicatif :</strong></p>
+<ul>
+<li>
+<p><strong>pour raconter une vie entière :</strong> environ 8 à 12 séances, soit un budget de <strong>1600 à 2400€</strong>.</p>
+</li>
+<li>
+<p><strong>pour raconter un événement ou une période délimitée</strong> : il faut 2 à 5 séances, soit un budget <strong>de 400 à 1000€</strong>.</p>
+</li>
+</ul>
+</blockquote>
+<p>Cette tarification comprend :</p>
+<ul>
+<li>le trajet jusqu’à chez vous et le retour à mon domicile</li>
+<li>les différents entretiens</li>
+<li>la retranscription intégrale de votre récit</li>
+<li>la mise en forme du texte, le travail du style, la clarté et la fluidité de l’écriture</li>
+<li>la relecture orthographique et grammaticale</li>
+<li>les ajouts et les corrections éventuelles (après relecture de votre part)</li>
+<li>la livraison du texte au format numérique ou sur papier</li>
+</ul>
+<p>Les frais de déplacement sont gratuits dans un rayon de 30km (aller-retour) autour de mon domicile. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.</p>
+
+
+        </div>
+
+        
+        
+    </main>
+
+    
+<footer class="subtext">
+    <div class="no-wrap">
+        Sylvaine AUSSIETTE © 2023
+    </div>
+    <a href="/la-ramure-des-mots/legal/">
+        Mentions légales
+    </a>
+    <a href="/la-ramure-des-mots/cgv/">
+        CGV
+    </a>
+</footer>
+
+</body>
+<script>
+    const scrollHandler = entries => {
+        // Find the first entry which intersecting and ratio > 0.9 to highlight.
+        let entry = entries.find(entry => {
+            return entry.isIntersecting && entry.intersectionRatio > 0.9;
+        });
+        if (!entry) return;
+
+        document.querySelectorAll(".toc a").forEach((item) => {
+            item.classList.remove("active");
+        });
+
+        // let url = new URL(`#${entry.target.id}`);
+        let link = document.querySelector(`.toc a[href$="${decodeURIComponent(`#${entry.target.id}`)}"]`)
+        if (link) {
+            link.classList.add("active");
+            link.scrollIntoView({ behavior: "auto", block: "nearest" });
+        }
+    };
+    // Set -100px root margin to improve highlight experience.
+    const observer = new IntersectionObserver(scrollHandler, { threshold: 1 });
+    let items = document.querySelectorAll('h1,h2,h3,h4,h5,h6');
+    items.forEach(item => observer.observe(item));
+</script>
+
+</html>
