@@ -3,4 +3,4 @@ domains:
   - laramuredesmots.fr
   - www.laramuredesmots.fr
 image: ghcr.io/red-roots/laramuredesmots:main
-#public: site
+public: site
