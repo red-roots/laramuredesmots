@@ -2,3 +2,6 @@
 domains:
   - laramuredesmots.fr
   - www.laramuredesmots.fr
+image: ghcr.io/getzola/zola:v0.17.1
+command: zola build
+public: site
