@@ -1,0 +1,112 @@
+{% import "_macros.html" as macros %}
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{ config.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/favicon.svg">
+    {% include "_variables.html" %}
+    <link rel="stylesheet" href="{{ get_url(path='theme.css') }}">
+    {% block head %}
+    {% endblock head %}
+</head>
+
+<body>
+    {% block header %}
+    <header class="nav-bar">
+        {{ macros::render_header() }}
+    </header>
+    <div class="frontpage">
+        {% block frontpage %}
+        <section class="text-center">
+            <h1 class="frontpage-heading">
+                Go back to your roots
+            </h1>
+            <img class="frontpage-icon" src="{{ get_url(path=config.extra.theme_frontpage_icon_path) }}">
+            <div class="div-centered">
+                <h3 class="frontpage-heading-text">Think about it</h3>
+            </div>
+        </section>
+
+        <img class="frontpage-img" src="{{ get_url(path=config.extra.theme_frontpage_img_path) }}">
+        {% endblock frontpage %}
+
+        <div class="frontpage-explore-more text" onclick="document.getElementById('main').scrollIntoView({behavior: 'smooth'})">
+            Faire défiler ⇩
+        </div>
+    </div>
+    {% endblock header %}
+
+    <main id="main">
+    {% block toc %}
+        {% if section.toc %}
+        {% set toc = section.toc %}
+        {% elif page.toc %}
+        {% set toc = page.toc %}
+        {% endif %}
+        {% if toc %}
+        <div class="toc">
+            <div class="toc-sticky">
+                {% for h in toc %}
+                <div class="toc-item">
+                    <a class="subtext" href="{{h.permalink | safe}}">{{ h.title }}</a>
+                </div>
+                {% if h.children %}
+                {% for h2 in h.children %}
+                <div class="toc-item-child">
+                    <a class="subtext" href="{{h2.permalink | safe}}"><small>{{ h2.title }}</small></a>
+                </div>
+                {% endfor %}
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+        {% endblock toc %}
+
+        <div class="content text">
+            {% block content %}
+            {{ section.content | safe }}
+            {% endblock content %}
+        </div>
+
+        {% block sidebar %}
+        {% endblock sidebar %}
+    </main>
+
+    {% block footer %}
+    <footer>
+        <small class="subtext">
+            Jane Doe © 2023 — <a href="mailto:contact@example.com">contact@example.com</a>
+        </small>
+    </footer>
+    {% endblock footer %}
+</body>
+<script>
+    const scrollHandler = entries => {
+        // Find the first entry which intersecting and ratio > 0.9 to highlight.
+        let entry = entries.find(entry => {
+            return entry.isIntersecting && entry.intersectionRatio > 0.9;
+        });
+        if (!entry) return;
+
+        document.querySelectorAll(".toc a").forEach((item) => {
+            item.classList.remove("active");
+        });
+
+        // let url = new URL(`#${entry.target.id}`);
+        let link = document.querySelector(`.toc a[href$="${decodeURIComponent(`#${entry.target.id}`)}"]`)
+        if (link) {
+            link.classList.add("active");
+            link.scrollIntoView({ behavior: "auto", block: "nearest" });
+        }
+    };
+    // Set -100px root margin to improve highlight experience.
+    const observer = new IntersectionObserver(scrollHandler, { threshold: 1 });
+    let items = document.querySelectorAll('h1,h2,h3,h4,h5,h6');
+    items.forEach(item => observer.observe(item));
+</script>
+
+</html>

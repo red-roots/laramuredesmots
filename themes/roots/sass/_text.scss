@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'Atkinson';
+  font-weight: normal;
+  font-style: bold;
+  src: url("fonts/Atkinson-Bold.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: 'Atkinson';
+  font-weight: bold;
+  font-style: italic;
+  src: url("fonts/Atkinson-BoldItalic.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: 'Atkinson';
+  font-weight: normal;
+  font-style: italic;
+  src: url("fonts/Atkinson-Italic.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: 'Atkinson';
+  font-weight: normal;
+  font-style: regular;
+  src: url("fonts/Atkinson-Regular.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: 'Dancing';
+  font-weight: normal;
+  font-style: bold;
+  src: url("fonts/DancingScript-Regular.otf") format('opentype');
+}
+
+.heading {
+  font-family: var(--header-font-family);
+  font-size: 3.5rem;
+  font-weight: 600;
+  margin: 0 0 .2em 0;
+  color: var(--primary-text-color);
+}
+
+.sub-heading {
+  font-family: var(--header-font-family);
+  font-size: 35px;
+  padding-left: 0;
+  margin: 0;
+}
+
+h1, .title-text {
+  font-family: var(--text-font-family);
+  font-size: 30px;
+  font-weight: 500;
+  color: var(--primary-text-color);
+  border-left: var(--primary-color) 8px solid;
+  padding-left: 10px;
+}
+
+.title-text {
+  text-align: start;
+}
+
+h2, .subtitle-text {
+  font-family: var(--text-font-family);
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--primary-text-color);
+}
+
+.text {
+  font-family: var(--text-font-family);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0.2px;
+  color: var(--primary-text-color);
+  text-align: justify;
+}
+
+.subtext {
+  font-family: var(--text-font-family);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.1px;
+}
+
+.bold-text {
+  font-weight: 600;
+}

@@ -1,0 +1,23 @@
+{% macro render_header() %}
+{% set section = get_section(path="_index.md") %}
+<a href="{{ section.permalink | safe }}">
+    <div class="logo">
+        <span>La Ramure</span>
+        <img src="{{ get_url(path=config.extra.theme_logo_path) }}" alt="logo">
+        <span>des mots</span>
+    </div>
+</a>
+
+<nav>
+    {% if config.extra.theme_extra_menu %}
+        {% for menu in config.extra.theme_extra_menu %}
+        <a class="nav-item subtitle-text" href="{{ menu.link | safe }}">{{ menu.title }}</a>
+        {% endfor %}
+    {% endif %}
+    {% for page in section.pages %}
+    {% if config.extra.theme_exclude_menu is not containing(page.title) %}
+        <a class="nav-item subtitle-text" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    {% endif %}
+    {% endfor %}
+</nav>
+{% endmacro render_header %}

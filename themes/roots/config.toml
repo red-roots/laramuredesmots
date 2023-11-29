@@ -1,0 +1,29 @@
+# The URL the site will be built for
+base_url = "/"
+
+title = "Roots"
+# default_language = "en"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+
+[markdown]
+highlight_code = true
+highlight_theme = "inspired-github"
+
+[extra]
+theme_logo_path = "img/logo.svg"
+theme_frontpage_img_path = "img/frontpage.svg"
+theme_frontpage_icon_path = "img/frontpage-icon.svg"
+theme_extra_menu = [
+    { title = "Github", link = "https://github.com/red-roots/roots" }
+]
+# Add page titles here to exclude them from the nav section (case sensitive)
+theme_exclude_menu = [
+    "exclude_from_nav"
+]
+repository_url = "https://github.com/green-root/roots"
