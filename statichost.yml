@@ -2,5 +2,5 @@
 domains:
   - laramuredesmots.fr
   - www.laramuredesmots.fr
-image: ghcr.io/red-roots/laramuredesmots:main
+image: ghcr.io/jauderho/zola:latest
 public: public
