@@ -3,5 +3,5 @@ domains:
   - laramuredesmots.fr
   - www.laramuredesmots.fr
 image: ghcr.io/jauderho/zola:latest
-command: build
+command: zola build
 public: public
