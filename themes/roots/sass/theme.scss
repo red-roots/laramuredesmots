@@ -231,7 +231,6 @@ footer {
 }
 
 .footer-links {
-  margin-top: .3em;
   display: flex;
   flex-direction: row;
   gap: 1em;
@@ -334,4 +333,9 @@ footer {
     gap: 0;
     padding: .5em;
   }
+
+  .footer-links {
+    margin-top: .3em;
+  }
+
 }
