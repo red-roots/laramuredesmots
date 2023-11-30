@@ -10,7 +10,7 @@ weight = 1
 
 - Vous me présentez votre projet et ce qui vous anime.
 
-![collaborative_work](/img/collaborative_work_1.svg)
+![collaborative_work](/img/collaborative_work.svg)
 
 - Vous me précisez la manière dont vous voulez mettre en place votre récit.
     * il peut suivre *un ordre chronologique* et s’organiser au moyen de chapitres, éventuellement intitulés.
