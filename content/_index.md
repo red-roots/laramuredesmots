@@ -18,7 +18,7 @@ sort_by = "weight"
 
 * Soit un épisode important de votre vie : votre enfance, un mariage, une rencontre, la naissance d’un enfant, une adoption, un voyage, l’épreuve de la maladie, un départ à la retraite, la construction d’une maison...
 
-<img alt="old photos" class="frontpage-photo" src="img/old_photos.webp">
+<img alt="old photos" class="frontpage-photo" srcset="img/old_photos-480.webp 480w, img/old_photos-800.webp 800w" sizes="(max-width: 768px) 480px, 800px" src="img/old_photos-800.webp">
 <a class="img-credit" href="https://www.pexels.com/photo/black-and-white-photos-of-toddlers-1596882">Crédit: @rodolfoclix</a>
 
 </div>
