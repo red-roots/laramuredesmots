@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "/la-ramure-des-mots"
+base_url = "/"
 title = "La Ramure des mots"
 compile_sass = true
 minify_html = false
