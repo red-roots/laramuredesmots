@@ -16,6 +16,7 @@ header {
   gap: .4em;
 
   a {
+    text-decoration: none;
     color: var(--primary-text-color);
   }
 
@@ -58,7 +59,7 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 p {
