@@ -1,3 +1,3 @@
-function scroll(){
-    document.getElementById('main').scrollIntoView({behavior: 'smooth'})
-}
+document.getElementById("buttonScroll").addEventListener("click", function() {
+    document.getElementById('main').scrollIntoView({behavior: 'smooth'});
+});

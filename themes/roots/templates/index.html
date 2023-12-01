@@ -8,7 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="/favicon.svg">
     <link rel="stylesheet" href="{{ get_url(path='theme.css') }}">
-    <script asyn src="/js/main.js"></script>
     {% block head %}
     {% endblock head %}
 </head>
@@ -33,7 +32,7 @@
         <img class="frontpage-img" src="{{ get_url(path=config.extra.theme_frontpage_img_path) }}">
         {% endblock frontpage %}
 
-        <div class="frontpage-explore-more text" onclick="scroll();">
+        <div id="buttonScroll" class="frontpage-explore-more text">
             Faire défiler ⇩
         </div>
     </div>
@@ -84,5 +83,6 @@
         </small>
     </footer>
     {% endblock footer %}
+    <script asyn src="/js/main.js"></script>
 </body>
 </html>
