@@ -5,7 +5,7 @@ weight = 1
 +++
 
 ## Préambule
-Les conditions générales de vente décrites ci-après détaillent les droits et obligations de AUSSIETTE Sylvaine (ci-après désigné « le biographe »), exécutante des prestations proposées sur le site [laramuredesmots.fr](/), de toute personne physique ou morale (ci-après désigné « le narrateur ») passant commande de ces prestations.
+Les conditions générales de vente décrites ci-après détaillent les droits et obligations de AUSSIETTE Sylvaine E.I (ci-après désigné « le biographe »), exécutante des prestations proposées sur le site [laramuredesmots.fr](/), de toute personne physique ou morale (ci-après désigné « le narrateur ») passant commande de ces prestations.
 
 Les présentes conditions générales de vente sont modifiables à tout moment par la prestataire sans information préalable du souscripteur. Les conditions générales de vente modifiées s’appliquent immédiatement à toute commande passée postérieurement et non aux commandes antérieures.
 

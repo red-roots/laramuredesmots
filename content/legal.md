@@ -10,7 +10,7 @@ L’hébergement de ce site est assuré par Variable Object Assignment, 11129 St
 
 ## Éditeur
 
-Ce site est conçu et édité par Sylvaine AUSSIETTE.
+Ce site est conçu et édité par Sylvaine AUSSIETTE E.I.
 
 ## Licence
 
