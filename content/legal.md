@@ -14,7 +14,9 @@ Ce site est conçu et édité par Sylvaine AUSSIETTE E.I.
 
 ## Licence
 
-Sauf mention contraire, le contenu de ce site est placé sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Vous pouvez par conséquent le partager et l’adapter selon les termes de la licence.
+Hors image, le contenu de ce site est placé sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Vous pouvez par conséquent le partager et l’adapter selon les termes de la licence.
+
+Sauf mention du contraire, les illustrations proviennent de [storyset.com](https://storyset.com).
 
 ## Traitement des données
 
