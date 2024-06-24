@@ -4,6 +4,8 @@ description = "Tarifs"
 weight = 1
 +++
 
+## Biographie
+
 Une heure d’entretien avec vous nécessite **4h** de travail d'écriture de mon côté. Chaque heure est facturée **40€**. Une heure d'entretien est donc facturée **4** x **40€**.
 
 Vous pouvez interrompre notre collaboration à tout moment sous réserve du règlement du travail déjà réalisé.
@@ -23,3 +25,11 @@ Cette tarification comprend :
 - la livraison du texte au format numérique ou sur papier
 
 Les frais de déplacement sont gratuits dans un rayon de 30km (aller-retour) autour de mon domicile. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
+
+## Ateliers d’écriture — cours collectif
+
+Une heure d’atelier collectif est facturée **20€** par personne pour un atelier de **2H**.
+
+## Exercices d'écriture du baccalauréat de français — cours individuel
+
+**28€** par heure

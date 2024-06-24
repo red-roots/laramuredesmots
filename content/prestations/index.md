@@ -1,5 +1,5 @@
 +++
-title = "Prestation"
+title = "Prestations"
 description = "Déroulement de la prestation"
 weight = 1
 +++

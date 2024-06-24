@@ -59,11 +59,17 @@ a {
   max-width: 100%;
 }
 
+
 .content img {
   margin: 0 auto;
   display: block;
   width: 8vw;
   max-height: 15vh;
+}
+
+.content .medium_img {
+  width: 15vw;
+  max-height: 20vh;
 }
 
 .img-credit {

@@ -22,3 +22,44 @@
 .no-wrap {
   flex-shrink: 0;
 }
+
+details:not(:focus-within) ul {
+  display: none;
+}
+
+.dropdown {
+  font-size: 1.38rem;
+  font-weight: 600;
+  margin: 0 10px;
+
+  summary {
+    padding: 5px 15px;
+    border-radius: 500px;
+    list-style: none;
+    cursor: pointer;
+    background: var(--code-background-color);
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+}
+
+details {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+details ul {
+  display: block;
+  list-style: none;
+  position: absolute;
+  font-size: 1.2rem;
+  padding: 5px 15px;
+  margin: 3px 0 0 0;
+  border-radius: 30px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+  background: var(--code-background-color);
+}
+

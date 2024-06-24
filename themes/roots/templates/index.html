@@ -25,13 +25,13 @@
             <h1 class="frontpage-heading">
                 Go back to your roots
             </h1>
-            <img class="frontpage-icon" src="{{ get_url(path=config.extra.theme_frontpage_icon_path) }}">
+            <img class="frontpage-icon" src="/{{ get_url(path=config.extra.theme_frontpage_icon_path) }}">
             <div class="div-centered">
                 <h3 class="frontpage-heading-text">Think about it</h3>
             </div>
         </section>
 
-        <img class="frontpage-img" src="{{ get_url(path=config.extra.theme_frontpage_img_path) }}">
+        <img class="frontpage-img" src="/{{ get_url(path=config.extra.theme_frontpage_img_path) }}">
         {% endblock frontpage %}
 
         <div id="buttonScroll" class="frontpage-explore-more text">
@@ -65,7 +65,7 @@
             </div>
         </div>
         {% endif %}
-        <script asyn src="/js/toc.js"></script>
+        <script asyn src="/{{ get_url(path='js/toc.js') }}"></script>
     {% endblock toc %}
 
         <div class="content text">
@@ -86,7 +86,7 @@
     </footer>
     {% endblock footer %}
     {% block main_js %}
-    <script async src="/js/main.js"></script>
+    <script async src="/{{ get_url(path='js/main.js') }}"></script>
     {% endblock main_js %}
 </body>
 </html>
