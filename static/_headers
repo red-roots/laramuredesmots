@@ -3,7 +3,7 @@
     Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
     Cross-Origin-Embedder-Policy: require-corp
     Cross-Origin-Resource-Policy: same-origin
-    Content-Security-Policy: default-src 'none'; font-src 'self'; connect-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; form-action 'none'; frame-ancestors 'none'; block-all-mixed-content; base-uri 'none'
+    Content-Security-Policy: default-src 'none'; font-src 'self'; connect-src 'self'; img-src 'self'; script-src 'self'; style-src 'self'; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests; base-uri 'none'
     Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), clipboard-read=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), interest-cohort=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), usb=(), sync-xhr=(), xr-spatial-tracking=()
     Referrer-Policy: no-referrer
 
