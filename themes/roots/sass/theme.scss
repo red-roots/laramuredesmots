@@ -260,11 +260,27 @@ footer {
     height: 90%;
     width: 85%;
   }
+
+  .frontpage-left-panel-icon {
+    display: none;
+    min-width: 30px;
+    margin-right: -1em;
+  }
+
+  .sub-heading {
+    font-size: 25px;
+  }
+
+  .heading {
+    font-size: 2rem;
+  }
+
 }
 
 @media screen and (max-width: 768px) {
   .logo {
     margin-right: 0;
+    font-size: 1em;
   }
 
   .content {
