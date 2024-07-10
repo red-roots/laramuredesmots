@@ -39,10 +39,14 @@ header {
   margin-right: 1.5em;
 }
 
+nav {
+  margin-top: 15px;
+}
+
 .nav-item {
   margin: 0 15px;
   background: var(--code-background-color);
-  padding: 7px 15px;
+  padding: 10px 15px;
   border-radius: 500px;
 
   &:hover {
@@ -240,8 +244,17 @@ footer {
 }
 
 @media screen and (max-width: 900px) {
+
+  .content .medium_img {
+    width: 50vw;
+  }
+
   nav {
     margin-bottom: .5em;
+  }
+
+  header img {
+    max-height: 45px;
   }
 
   .content img {
@@ -280,9 +293,8 @@ footer {
 @media screen and (max-width: 768px) {
   .logo {
     margin-right: 0;
-    font-size: 1em;
+    font-size: 1.1em;
   }
-
   .content {
     padding: 0;
     width: 90%;
@@ -308,6 +320,10 @@ footer {
     h2 {
       font-size: 19px;
     }
+
+    h1 {
+      font-size: 25px;
+    }
   }
 
   nav {
@@ -320,8 +336,9 @@ footer {
   }
 
   .nav-item {
-    font-size: 1.06rem;
-    width: 7.5rem;
+    font-size: 1rem;
+    padding: 7px 12px;
+    width: 7rem;
   }
 
   .frontpage {
@@ -388,11 +405,18 @@ footer {
   .dropdown {
     margin-right: 3em;
     font-size: 1rem;
-    width: 7.5rem;
+    width: 6.63rem;
 
     summary {
-      padding: 8px 15px;
-      width: 7.5rem;
+      padding: 7px 12px;
+      width: 7rem;
+      margin: 0 0 0 5px;
+      //height: 1.09rem;
+    }
+
+    ul {
+      width: 7rem;
+      font-size: .8rem;
     }
 
   }
