@@ -243,6 +243,33 @@ footer {
   gap: 1em;
 }
 
+@media screen and (max-height: 890px) {
+  .frontpage-frame {
+    height: 85%;
+    width: 85%;
+    margin-top: 1em;
+  }
+
+  .frontpage-right-panel {
+    font-size: 3cqh;
+  }
+  .heading {
+    font-size: 6cqh;
+  }
+
+  .sub-heading {
+    font-size: 4cqh;
+  }
+
+  .frontpage-explore-more, .toc {
+    display: none;
+  }
+
+  .frontpage-left-panel {
+    padding: 1em 0;
+  }
+}
+
 @media screen and (max-width: 900px) {
 
   .content .medium_img {
@@ -364,7 +391,6 @@ footer {
 
   .frontpage-right-panel {
     padding: 1em;
-    font-size: 20px;
     border-left: 0;
     border-top: var(--primary-text-color) 2px solid;
     width: 100%;
