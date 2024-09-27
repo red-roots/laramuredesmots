@@ -26,12 +26,12 @@ Cette tarification comprend :
 
 Les frais de déplacement sont gratuits dans un rayon de 30km (aller-retour) autour de mon domicile. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
 
-# Ateliers d’écriture — cours collectif
+# Ateliers d’écriture collectifs
 
 <div class="grid">
 <div class="grid-item">
 
-## Particuliers (15 personnes maximum)
+## Particuliers (8 personnes maximum)
 
 Durée de l'atelier : **1H30**
 
@@ -39,7 +39,7 @@ Pas d'ateliers pendant les vacances scolaires.
 
 Possibilité de payer en 3 fois.
 
-> - Atelier d'essai : **20€**
+> - Atelier d'essai : **15€**
 > - 1er cycle (13 ateliers) : **260€**
 > - 2ème cycle (13 ateliers) : **260€**
 > - 3ème cycle (11 ateliers) : **220€**
