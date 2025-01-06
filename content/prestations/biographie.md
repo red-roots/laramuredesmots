@@ -4,12 +4,6 @@ description = "Déroulement de la prestation"
 weight = 1
 +++
 
-> **À titre indicatif**
->
-> – pour raconter une vie entière, il faut environ 8 à 12 séances
->
-> – pour raconter un événement ou une période délimitée : il faut environ 2 à 5 séances
-
 <div class="grid">
 <div class="grid-item">
 

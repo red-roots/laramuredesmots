@@ -10,10 +10,7 @@ Une heure d’entretien avec vous nécessite **4h** de travail d'écriture de mo
 
 Vous pouvez interrompre notre collaboration à tout moment sous réserve du règlement du travail déjà réalisé.
 
-> **À titre indicatif :**
->    * **pour raconter une vie entière :** environ 8 à 12 séances, soit un budget de **1600 à 2400€**.
->
->    * **pour raconter un événement ou une période délimitée** : il faut 2 à 5 séances, soit un budget **de 400 à 1000€**.
+> Le nombre d'entretiens varie selon la nature de votre projet. [Contactez-moi](/contact) pour me faire part de vos envies et je vous proposerai un programme personnalisé.
 
 Cette tarification comprend :
 - le trajet jusqu’à chez vous et le retour à mon domicile
@@ -44,7 +41,6 @@ Possibilité de payer en 3 fois.
 > - 2ème cycle (13 ateliers) : **260€**
 > - 3ème cycle (11 ateliers) : **220€**
 > - 3 cycles : **666€** au lieu de **740€** (*-10%*)
-
 
 </div>
 <div class="grid-item">
