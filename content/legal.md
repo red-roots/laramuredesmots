@@ -10,7 +10,7 @@ L’hébergement de ce site est assuré par Variable Object Assignment, 11129 St
 
 ## Éditeur
 
-Ce site est conçu et édité par Sylvaine AUSSIETTE EI.
+Ce site est conçu et édité par *Sylvaine AUSSIETTE EI*.
 
 SIRET : 983 126 723 00011
 

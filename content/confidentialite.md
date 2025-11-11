@@ -10,4 +10,4 @@ La seule donnée à caractère personnelle strictement nécessaire qui est réco
 
 Pour toute demande veuillez m'écrire à <a href="mailto:%63%6f%6e%74%61%63%74%40%6c%61%72%61%6d%75%72%65%64%65%73%6d%6f%74%73%2e%66%72">contact&commat;laramuredesmots&period;fr</a>
 
-AUSSIETTE Sylvaine E.I peut également collecter et traiter toute donnée transmise volontairement par un visiteur, notamment lors de l’envoi d’un email à l’adresse de contact. AUSSIETTE Sylvaine E.I s’engage à ne conserver et traiter que les données strictement nécessaires à son activité, et supprimera toute donnée reçue non utile dans les plus brefs délais.
+*AUSSIETTE Sylvaine E.I* peut également collecter et traiter toute donnée transmise volontairement par un visiteur, notamment lors de l’envoi d’un email à l’adresse de contact. *AUSSIETTE Sylvaine E.I* s’engage à ne conserver et traiter que les données strictement nécessaires à son activité, et supprimera toute donnée reçue non utile dans les plus brefs délais.
