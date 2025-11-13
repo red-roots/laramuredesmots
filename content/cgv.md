@@ -60,4 +60,4 @@ La propriété intellectuelle de l’ouvrage ainsi rédigé appartient pour part
 
 ## Droit applicable et litiges
 
-Les présentes CGV sont soumises au droit français. En cas de litige, une tentative de résolution amiable sera privilégiée avant toute action judiciaire devant les tribunaux compétents
+Les présentes CGV sont soumises au droit français. En cas de litige, une tentative de résolution amiable sera privilégiée avant toute action judiciaire devant les tribunaux compétents.

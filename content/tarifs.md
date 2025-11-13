@@ -19,7 +19,7 @@ Cette tarification comprend :
 - les ajouts et les corrections éventuels (après relecture de votre part)
 - la livraison du texte au format numérique ou sur papier
 
-Les frais de déplacement sont gratuits dans un rayon de 30kms (aller-retour) autour autour de Creys-Mépieu ou de Saint-Baudille de la Tour. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
+Les frais de déplacement sont gratuits dans un rayon de 30kms (aller-retour) autour de Creys-Mépieu ou de Saint-Baudille de la Tour. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
 
 # Ateliers d’écriture collectifs
 
