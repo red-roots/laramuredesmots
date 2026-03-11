@@ -13,7 +13,7 @@ Les conditions générales de vente décrites ci-après détaillent les droits e
 Les présentes conditions générales de vente sont modifiables à tout moment par la prestataire sans information préalable du souscripteur. Les conditions générales de vente modifiées s’appliquent immédiatement à toute commande passée postérieurement et non aux commandes antérieures.
 
 ## Modalités d’écriture et restitution du récit
-Le biographe rédigera la biographie du narrateur d’après les entretiens réalisés avec lui et les documents qu’il aura fournis. Ce texte une fois terminé et accepté par le narrateur lui sera remis soit sous forme d’impression reliée au moyen d’une reliure amovible légère, soit sous forme numérique, selon le souhait du narrateur.
+Le biographe rédigera la biographie du narrateur d’après les entretiens réalisés avec lui et les documents qu’il aura fournis. Ce texte une fois terminé et accepté par le narrateur lui sera remis soit sous forme d’impression reliée (reliure thermique), et/ou sous forme numérique, selon le souhait du narrateur.
 
 ## Déroulement des séances et durée du projet
 Le biographe recueillera les informations nécessaires à l’écriture sous forme d’entretiens d’une heure avec le narrateur. Ils auront lieu chez le narrateur et seront enregistrés avec l’accord de ce dernier. Ces informations seront ensuite rédigées et soumises au narrateur pour qu’il y apporte les modifications qu’il jugera nécessaires.
@@ -21,7 +21,7 @@ La fréquence des entretiens sera définie entre les contractants, en fonction d
 Les prestations seront répétées jusqu’à ce que le narrateur juge le travail terminé ou qu’il décide de l’interrompre pour des raisons personnelles.
 
 ## Tarifs et factures
-L’ensemble composé d’une heure d’entretien, du travail de rédaction et des modifications apportées par le narrateur, correspond à une prestation ou séance payable à la fin de chaque entretien, au prix de 200 euros. Cette tarification comprend :
+L’ensemble composé d’une heure d’entretien, du travail de rédaction et des modifications apportées par le narrateur correspond à une prestation ou séance payable à la fin de chaque entretien, au prix de 200 euros. Cette tarification comprend :
 - le trajet jusqu’à chez vous et le retour à mon domicile
 
 - les différents entretiens
@@ -38,8 +38,6 @@ L’ensemble composé d’une heure d’entretien, du travail de rédaction et d
 
 Les frais de déplacement sont gratuits dans un rayon de 30 kms (aller-retour) autour de Creys-Mépieu ou de
 Saint-Baudille de la Tour. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
-
-Chaque entretien doit être réglé à l’avance. Une facture sera envoyée en amont et devra être réglée avant la prestation par virement bancaire. En cas d’annulation, il est nécessaire de prévenir au moins 24h à l’avance. Au-delà toute séance est due.
 
 Les deux parties peuvent interrompre à tout moment leur collaboration sous réserve du règlement des séances déjà réalisées.
 

@@ -53,3 +53,7 @@ Durée de l'atelier : **1H**
 
 </div>
 </div>
+
+# Exercices scolaires
+
+> **30€** / heure

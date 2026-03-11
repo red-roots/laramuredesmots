@@ -7,7 +7,6 @@ build_search_index = false
 theme = "roots"
 
 [markdown]
-highlight_code = false
 
 [extra]
 theme_logo_path = "img/logo_final_v2.webp"
