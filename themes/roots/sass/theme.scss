@@ -15,7 +15,7 @@ header {
   flex-direction: column;
   gap: .4em;
 
-  a {
+  a{
     text-decoration: none;
     color: var(--primary-text-color);
   }
@@ -49,9 +49,13 @@ nav {
   border-radius: 500px;
 
   &:hover {
-    color: var(--primary-text-color-over);
-    text-decoration: underline;
+    color: var(--primary-link-color);
+    text-decoration: none;
   }
+}
+
+.dropdown:hover {
+    color: var(--primary-link-color);
 }
 
 
@@ -84,6 +88,7 @@ main {
 
   h1 {
     border-left: 0;
+    font-size: 3rem;
   }
 }
 
