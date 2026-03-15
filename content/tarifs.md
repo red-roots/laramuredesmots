@@ -21,7 +21,7 @@ Cette tarification comprend :
 
 Les frais de déplacement sont gratuits dans un rayon de 30kms (aller-retour) autour de Creys-Mépieu ou de Saint-Baudille de la Tour. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
 
-# Ateliers d’écriture collectifs
+<!-- # Ateliers d’écriture collectifs
 
 Les ateliers peuvent avoir lieu dans un rayon de 15 kms autour de Creys-Mépieu ou de Saint Baudille de la Tour.
 
@@ -52,7 +52,7 @@ Durée de l'atelier : **1H**
 > **75€** l'atelier pour le groupe
 
 </div>
-</div>
+</div> -->
 
 # Exercices scolaires
 

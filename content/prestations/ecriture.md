@@ -1,10 +1,9 @@
 +++
-title = "Écriture créative et personnelle"
-description = "Écriture créative et personnelle"
+title = "Aide scolaire"
 weight = 1
 +++
 
-<div class="frontpage-blockquote">
+<!-- <div class="frontpage-blockquote">
 
 > *L’écriture sert à libérer une matière silencieuse qui est bien plus vaste que les mots.*
 > <div class="blockquote-author">Nathalie Sarraute</div>
@@ -63,7 +62,7 @@ Tout le monde à sa place.
 Les ateliers d’écriture collectifs proposent un espace bienveillant pour faire éclore la sensibilité et la créativité de chacun. C’est aussi un lieu de partage avec les autres et de découvertes.
 
 </div>
-</div>
+</div> -->
 
 # Exercices d'écriture scolaires : commentaire littéraire et dissertation
 Vous souhaitez comprendre et maîtriser la méthode du commentaire littéraire et/ou de la dissertation, je suis là pour vous aider à y parvenir.

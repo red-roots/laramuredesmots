@@ -27,7 +27,7 @@ sort_by = "weight"
 
 # Qui suis-je ?
 
-Professeure de français au lycée pendant 29 ans (Capes de lettres modernes), je suis à présent animatrice d'ateliers d'écriture et biographe familiale dans l'Isère (formation auprès d'[Isabelle Sarcey - Iscriptura](https://www.iscriptura.fr/)).
+Professeure de français au lycée pendant 29 ans (Capes de lettres modernes), je suis à présent biographe familiale dans l'Isère (formation auprès d'[Isabelle Sarcey - Iscriptura](https://www.iscriptura.fr/)).
 J’aime marier ces deux activités qui me permettent d’établir un contact privilégié avec les mots et de favoriser la transmission.</br>
 
 <img class="medium_img" alt="tree_life_img" src="/img/tree_life.svg">
