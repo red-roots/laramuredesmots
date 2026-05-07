@@ -19,7 +19,7 @@ Cette tarification comprend :
 - les ajouts et les corrections éventuels (après relecture de votre part)
 - la livraison du texte au format numérique ou sur papier
 
-Les frais de déplacements sont gratuits jusqu à 15 kms entre la commune de Creys-Mépieu et le domicile du narrateur. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
+Les frais de déplacements sont gratuits jusqu'à 15 kms entre la commune de Creys-Mépieu et le domicile du narrateur. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
 
 <!-- # Ateliers d’écriture collectifs
 
@@ -57,3 +57,5 @@ Durée de l'atelier : **1H**
 # Exercices scolaires
 
 > **30€** / heure
+
+Les frais de déplacements sont gratuits jusqu'à 15 kms entre la commune de Creys-Mépieu et le domicile du narrateur. Au-delà, l’indemnité kilométrique du barème en vigueur est appliquée.
