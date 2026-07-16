@@ -6,6 +6,10 @@ weight = 1
 
 ## Traitement des données
 
+Particulièrement vigilante à l'éthique numérique, et à la protection de vos données personnelles, je ne fais usage d'aucune [intelligence artificielle générative](https://fr.wikipedia.org/wiki/Intelligence_artificielle_g%C3%A9n%C3%A9rative).
+
+Votre histoire est ainsi traitée avec soin, dans la plus stricte confidentialité, et rédigée par un humain, pour un humain.
+
 La seule donnée à caractère personnel strictement nécessaire qui est récoltée et uniquement communiquée à l'hébergeur est votre adresse IP. Plus d'informations sur le site de [www.statichost.eu](https://www.statichost.eu/privacy/).
 
 Pour toute demande veuillez m'écrire à <a href="mailto:%63%6f%6e%74%61%63%74%40%6c%61%72%61%6d%75%72%65%64%65%73%6d%6f%74%73%2e%66%72">contact&commat;laramuredesmots&period;fr</a>

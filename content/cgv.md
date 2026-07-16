@@ -21,7 +21,7 @@ La fréquence des entretiens sera définie entre les contractants, en fonction d
 Les prestations seront répétées jusqu’à ce que le narrateur juge le travail terminé ou qu’il décide de l’interrompre pour des raisons personnelles.
 
 ## Tarifs et factures
-L’ensemble composé d’une heure d’entretien, du travail de rédaction et des modifications apportées par le narrateur correspond à une prestation ou séance payable à la fin de chaque entretien, au prix de 200 euros. Une facture sera envoyée en amont, et le règlement s'effectuera par chèque ou virement bancaire.
+L’ensemble composé d’une heure d’entretien, du travail de rédaction et des modifications apportées par le narrateur correspond à une prestation ou séance payable à la fin de chaque entretien, au prix de 250 euros. Une facture sera envoyée en amont, et le règlement s'effectuera par chèque ou virement bancaire.
 
 Cette tarification comprend :
 - le trajet jusqu’à chez vous et le retour à mon domicile
