@@ -1,11 +1,10 @@
-{% import "_macros.html" as macros %}
 {% extends "index.html" %}
 
 {% block title %}<title>{{ page.title }} | {{ config.title }}</title>{% endblock title %}
 
 {% block header %}
 <header class="box-shadow">
-    {{ macros::render_header() }}
+    {% include "_header.html" %}
 </header>
 {% endblock header %}
 
