@@ -6,7 +6,7 @@ weight = 1
 
 # Biographie
 
-Une heure d’entretien avec vous nécessite **4h** de travail d'écriture de mon côté. Chaque heure est facturée **40€**. Un entretien complet est donc facturé **4** x **40€**.
+Une heure d’entretien avec vous nécessite **5h** de travail d'écriture de mon côté. Chaque heure est facturée **50€**. Une séance complète est donc facturé **5** x **50€**.
 
 > Le nombre d'entretiens varie selon la nature de votre projet. [Contactez-moi](/contact) pour me faire part de vos envies et je vous proposerai un programme personnalisé.
 
