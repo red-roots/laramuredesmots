@@ -6,9 +6,9 @@ weight = 1
 
 ## Traitement des données
 
-Particulièrement vigilante à l'éthique numérique, et à la protection de vos données personnelles, je ne fais usage d'aucune [intelligence artificielle générative](https://fr.wikipedia.org/wiki/Intelligence_artificielle_g%C3%A9n%C3%A9rative).
+Particulièrement vigilante à l'éthique numérique et à la protection de vos données personnelles, je ne fais usage d'aucune [intelligence artificielle générative](https://fr.wikipedia.org/wiki/Intelligence_artificielle_g%C3%A9n%C3%A9rative).
 
-Votre histoire est ainsi traitée avec soin, dans la plus stricte confidentialité, et rédigée par un humain, pour un humain.
+Votre histoire est ainsi traitée avec soin, dans la plus stricte confidentialité et rédigée par un humain, pour un humain.
 
 La seule donnée à caractère personnel strictement nécessaire qui est récoltée et uniquement communiquée à l'hébergeur est votre adresse IP. Plus d'informations sur le site de [www.statichost.eu](https://www.statichost.eu/privacy/).
 
