@@ -16,7 +16,9 @@
     {% for page in nav_section.pages %}
     {% set page_title = page.title %}
     {% if config.extra.theme_exclude_menu is not containing(pat=page_title) %}
-    {% if page.title == "Prestations" %}
+        <a class="nav-item subtitle-text" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    {% endif %}
+    {% if page.title == "Traitement des données" %}
     <details class="dropdown">
         <summary>Prestations</summary>
             <ul>
@@ -28,9 +30,6 @@
                 </li>
             </ul>
     </details>
-    {% else %}
-        <a class="nav-item subtitle-text" href="{{ page.permalink | safe }}">{{ page.title }}</a>
-    {% endif %}
     {% endif %}
     {% endfor %}
 </nav>

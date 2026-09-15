@@ -25,6 +25,7 @@
   border-radius: 15px;
   max-height: 100%;
   max-width: 100%;
+  margin-top: 2.5em;
 }
 
 .content img {
@@ -37,6 +38,10 @@
 .content .medium_img {
   width: 15vw;
   max-height: 50vh;
+}
+
+.content .medium_img.img-lower {
+  margin-top: 10vh;
 }
 
 .img-credit {
