@@ -55,6 +55,7 @@ nav {
   background: var(--accent-background-color);
   padding: 10px 15px;
   border-radius: 500px;
+  font-weight: 700;
 }
 
 .nav-item:hover, .dropdown:hover, .dropdown a:hover {
@@ -87,7 +88,7 @@ details ul {
 
 .dropdown {
   font-size: 1.38rem;
-  font-weight: 600;
+  font-weight: 700;
   margin: 0 10px;
 
   summary {
